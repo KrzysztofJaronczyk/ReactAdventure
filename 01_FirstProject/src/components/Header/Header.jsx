@@ -1,3 +1,5 @@
+import './Header.css'
+
 const readctDescriptions = ['Fundamental', 'Cruical', 'Important', 'Essential']
 
 function getRandomInt(max) {
